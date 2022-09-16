@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import ButtonAppBar from './Components/Navbar';
-import OurNavbar from './Components/OurNavbar';
 import BasicGrid from './Components/BasicGrid';
 
 
